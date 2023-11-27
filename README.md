@@ -1,7 +1,9 @@
-# Binary Prediction of Smoker Status using Bio-Signals
+# Smoker Status Prediction using Bio-Signals
 
 Welcome to the Smoking Prediction project! In this project, the goal is to predict a patient's smoking status based on various health indicators using binary classification.
 The dataset includes information such as height, weight, fasting blood sugar level, cholesterol, triglyceride, and more.
+
+![](https://images.theconversation.com/files/558645/original/file-20231109-17-q81n3u.jpg?ixlib=rb-1.1.0&rect=27%2C27%2C6078%2C4036&q=45&auto=format&w=496&fit=clip)
 
 ## Overview
 
